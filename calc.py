@@ -10,6 +10,7 @@ def div(x,y):
     return x/y
 
 # main function
+
 def main():
     check = 1
     print("Welcome to calcuator")
